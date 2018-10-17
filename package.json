@@ -1,0 +1,19 @@
+{
+  "name": "tts",
+  "version": "1.0.0",
+  "description": "Text to speech application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bcameron1489/tts.git"
+  },
+  "author": "Brian Cameron",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bcameron1489/tts/issues"
+  },
+  "homepage": "https://github.com/bcameron1489/tts#readme"
+}
